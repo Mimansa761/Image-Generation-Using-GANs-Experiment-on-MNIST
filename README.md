@@ -19,3 +19,4 @@ Technologies Used
 •	Variational Autoencoders (VAEs)
 •	Generative Adversarial Networks (GANs)
 ![My logo](https://github.com/Mimansa761/Image-Generation-Using-GANs-Experiment-on-MNIST/blob/337bc17f3bf5dc8ba7a1c0a534c1c906cf4ab3f5/m1.png).
+![My logo](https://github.com/Mimansa761/Image-Generation-Using-GANs-Experiment-on-MNIST/blob/b7ccae8e9742242dcff5af376d253880851b28f1/m2.png).
